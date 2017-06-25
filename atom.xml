@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hoyin is me</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hoyin.me/"/>
+  <updated>2017-06-25T03:50:14.000Z</updated>
+  <id>http://hoyin.me/</id>
+  
+  <author>
+    <name>Hoyin wong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>五周年纪念日，我们结婚了</title>
+    <link href="http://hoyin.me/2017/06/22/test/"/>
+    <id>http://hoyin.me/2017/06/22/test/</id>
+    <published>2017-06-22T02:10:00.000Z</published>
+    <updated>2017-06-25T03:50:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试资源</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;测试资源&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="life" scheme="http://hoyin.me/tags/life/"/>
+    
+  </entry>
+  
+</feed>
